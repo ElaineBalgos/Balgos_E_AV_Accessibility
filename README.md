@@ -1,6 +1,6 @@
 # Balgos_E_AV_Accessibility
 
-![header image|250x250](/img/accessibility.svg "AV Accessibility")
+![header image|25x25](/img/accessibility.svg "AV Accessibility")
 
 ## Description
 
