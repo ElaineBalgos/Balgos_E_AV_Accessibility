@@ -1,8 +1,6 @@
 # Balgos_E_AV_Accessibility
 
-<div style="width:150px; height:100px">
 ![header image](/img/accessibility.svg "AV Accessibility")
-</div>
 
 ## Description
 
