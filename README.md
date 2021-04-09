@@ -1,4 +1,4 @@
-# Balgos_E_AV_Accessibility
+# AV Accessibility
 
 ![header image](/img/accessibility.svg "AV Accessibility")
 
