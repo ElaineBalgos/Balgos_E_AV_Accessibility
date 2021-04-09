@@ -13,7 +13,7 @@ Three pieces of media -- 1 audio file, 2 video files (one movie, one tv show) - 
 ## Prerequisites
 
 - HTML
-- CSS/SASS
+- CSS
 - Javascript
 
 ## Roadmap
