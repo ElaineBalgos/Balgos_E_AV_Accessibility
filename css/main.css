@@ -1,0 +1,158 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  width: 100%;
+  height: 100%;
+  max-height: 100%;
+  margin: 0;
+  padding: 0;
+  background-size: 100% 100%;
+  background-color: #58524b;
+  background-image: url("../img/bg_bw.png");
+  background-repeat: no-repeat;
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  color: #fff;
+}
+
+.hidden {
+  display: none;
+}
+
+/* nav */
+.mainNav {
+  text-align: center;
+}
+
+.logo {
+  width: 10%;
+  height: auto;
+  padding-top: 50px;
+}
+
+.mainNav ul a {
+  display: flex;
+  width: 10em;
+  justify-content: center;
+  text-decoration: none;
+  background-color: #58524b;
+  color: #fff;
+}
+
+.mainNav ul a:hover {
+  background-color: black;
+}
+
+.mainNav ul {
+  text-align: center;
+  font-size: 24px;
+  line-height: 40px;
+  padding-left: 0;
+}
+
+.mainNav li {
+  list-style-type: none;
+  display: inline-block;
+  margin-right: -4px;
+  text-align: center;
+}
+
+/* main */
+
+.mediaContainer {
+  margin: 0 auto;
+  text-align: center;
+  width: 50%;
+}
+
+div {
+  /* display: inline-block; */
+  margin: 10px;
+}
+
+.lyricsCon {
+  background-color: #58524b;
+  text-align: center;
+  font-size: 14px;
+  padding: 20px;
+}
+
+.title {
+  text-align: center;
+  background-color: #58524b;
+  padding-top: 10px;
+}
+
+.lyrics {
+  display: inline-block;
+  padding: 10px;
+  text-align: justify;
+}
+
+button {
+  /*display: block;*/
+  font-size: 18px;
+  padding: 10px;
+  cursor: pointer;
+  background-color: #58524b;
+  color: #fff;
+}
+
+button:hover {
+  background-color: black;
+}
+
+img {
+  width: 60%;
+}
+
+.controllers {
+  display: block;
+  margin-top: 8px;
+  padding-bottom: 15px;
+}
+
+.movieCon {
+  display: inline;
+}
+
+.desc {
+  background-color: #58524b;
+}
+
+.vidDesc {
+  text-align: center;
+  font-size: 14px;
+}
+
+/* footer */
+.footer {
+  text-align: center;
+}
+
+.copyright {
+  padding: 25px;
+}
+
+/* accesibility */
+:focus {
+  outline: 5px solid #fff;
+}
+
+@media (min-width: 700px) {
+  .logo {
+    width: 10%;
+  }
+}
+@media (max-width: 700px) {
+  .logo {
+    width: 15%;
+  }
+
+  .mainNav {
+    text-align: center;
+    width: 100vw;
+  }
+}
