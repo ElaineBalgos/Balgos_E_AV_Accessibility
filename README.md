@@ -1,6 +1,6 @@
 # Balgos_E_AV_Accessibility
 
-![header image](/img/accessibility.svg "AV Accessibility")
+![header image](/img/accessibility.svg "AV Accessibility" =250x "accessibility")
 
 ## Description
 
@@ -13,7 +13,7 @@ Three pieces of media -- 1 audio file, 2 video files (one movie, one tv show) - 
 ## Prerequisites
 
 - HTML
-- CSS/SASS
+- CSS
 - Javascript
 
 ## Roadmap
